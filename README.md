@@ -2,12 +2,26 @@
 # Librería Computación Cuántica: Números Complejos
 
 **Encabezado:**
+
+
 CNYT (Ciencias naturales y tecnología)
+
+
 Librería computación cuántica
+
+
 Ingeniería de Sistemas
+
+
 Septiembre - 2019
+
+
 Escuela Colombiana de Ingeniería Julio Garavito, Bogotá
+
+
 María Angélica Alfaro Fandiño
+
+
 
 **Descripción:**
 Es una librería que permite operar números complejos. La librería realiza las siguientes operaciones entre números complejos:
