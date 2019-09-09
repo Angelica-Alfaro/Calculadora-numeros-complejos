@@ -1,7 +1,7 @@
 # Calculadora.
 # Librería Computación Cuántica: Números Complejos
 
-**Encabezado:**
+***Encabezado:***
 
 
 CNYT (Ciencias naturales y tecnología)
@@ -24,7 +24,7 @@ María Angélica Alfaro Fandiño
 
 
 
-**Descripción:**
+***Descripción:***
 
 
 Es una librería que permite operar números complejos. La librería realiza las siguientes operaciones entre números complejos:
@@ -32,7 +32,7 @@ Es una librería que permite operar números complejos. La librería realiza las
 
 
 
-***Operaciones básicas:***
+**Operaciones básicas:**
 
 
 •	Suma
@@ -62,7 +62,7 @@ Es una librería que permite operar números complejos. La librería realiza las
 
 
 
-***Para vectores:***
+**Para vectores:**
 
 
 •	Adición de vectores complejos.
@@ -85,7 +85,7 @@ Es una librería que permite operar números complejos. La librería realiza las
 
 
 
-***Para matrices:***
+**Para matrices:**
 
 
 •	Adición de matrices complejos.
@@ -123,7 +123,7 @@ Es una librería que permite operar números complejos. La librería realiza las
 
 
 
-**Como funciona:**
+***Como funciona:***
 
 
 Se muestra en cada una de las funciones respectivos comentarios que permiten entender que operación realiza cada una de ellas.
@@ -132,7 +132,7 @@ Se verifican los resultados obtenidos por cada una de las operaciones a través 
 
 
 
-**Entorno:**
+***Entorno:***
 
 
 •	Python 3.
